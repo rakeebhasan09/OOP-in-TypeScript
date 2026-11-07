@@ -1,6 +1,6 @@
 class Employee {
-    name: string = "Rakeeb";
-    baseSalary: number = 23000;
+    name: string;
+    baseSalary: number;
 
     constructor(name: string, baseSalary: number) {
         this.name = name;

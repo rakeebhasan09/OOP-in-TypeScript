@@ -1,7 +1,7 @@
 "use strict";
 class Employee {
-    name = "Rakeeb";
-    baseSalary = 23000;
+    name;
+    baseSalary;
     constructor(name, baseSalary) {
         this.name = name;
         this.baseSalary = baseSalary;

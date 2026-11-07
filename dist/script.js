@@ -1,2 +1,3 @@
+"use strict";
 console.log("Welcome into OOP in TypeScript.");
-import "./class-vs-object.js";
+// import "./class-vs-object.js";
