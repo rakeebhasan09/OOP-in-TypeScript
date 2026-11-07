@@ -1,3 +1,5 @@
+export {};
+
 class Employee {
     name: string;
     baseSalary: number;

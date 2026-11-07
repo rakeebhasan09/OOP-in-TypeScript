@@ -1,4 +1,3 @@
-"use strict";
 class Employeee {
     name;
     _baseSalary;
@@ -17,3 +16,4 @@ const employeee = new Employeee("Rakeeb", 25000);
 const employeee2 = new Employeee("Hasan", 21500);
 console.log(employeee);
 console.log(employeee2);
+export {};

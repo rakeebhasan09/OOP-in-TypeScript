@@ -1,3 +1,5 @@
+export {};
+
 class Employeee {
     constructor(
         public name: string,
